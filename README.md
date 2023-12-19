@@ -1,5 +1,6 @@
 # smart_watering_iot_blynk
 Smart Watering System applied IoT using Blynk API
+Demo: https://youtu.be/4CmbD6PQLdA
 
 Components
 ![image](https://github.com/Dendakoduong/smart_watering_iot_blynk/assets/106602391/dde39b6b-d918-49a8-bffc-5394c78eef21)
